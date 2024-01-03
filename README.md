@@ -28,8 +28,11 @@ Sou estudante de Design e produtos e Ciências Econômicas, e apaixonada por pro
 </div>
 
 ---
-<div>
-<div align ="left"> 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakelineWeschenfelder&show_icons=true&theme=bear&count_private=true"/> 
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=JakelineWeschenfelder&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<br><br>
+
+<div align="center">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=JakelineWeschenfelder-tech&rank_icon=github&show_icons=true&icon_color=e6d8b1&theme=dracula&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true&custom_title=♦︎%20Status&text_color=9DACC1&title_color=edc484">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakelineWeschenfelder-tech&show_icons=true&icon_color=e6d8b1&layout=compact&langs_count=6&hide_border=true&custom_title=★%20Linguagens%20no%20repositório&bg_color=00000000&theme=dracula&text_color=9DACC1&title_color=edc484"/>
 </div>
+ <br>
+  
