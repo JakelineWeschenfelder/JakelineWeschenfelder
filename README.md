@@ -12,7 +12,7 @@
  
 ---
  
-Sou estudante de Design e produtos e Ciências Econômicas, e apaixonada por programação, e amante de filmes, quadrinhos, e jogos arcade.
+Sou estudante de Design e produtos e Ciências Econômicas, e apaixonado por programação, e amante de filmes, quadrinhos, e jogos arcade.
 - ❤ Estudante de Design de produtos
 - 💙 Estudante de Ciencias Econômicas
 - 👩‍💻 Aprendendo algo sobre Programação e prototipação.
