@@ -5,7 +5,7 @@
 
 # ❤ Olá, Que  bom ter você por aqui!
   <div id="badges">
-  <a href = "https://github.com/JakelineWeschenfelder/JakelineWeschenfelder">
+  <a href ="https://github.com/JakelineWeschenfelder">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
