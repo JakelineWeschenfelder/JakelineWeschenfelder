@@ -3,7 +3,7 @@
 
 <img src = ".gif" width = "325px" align = "right">
 
-# ❤ Oi eu sou a Jake!
+# ❤Oi eu sou a Jake!
 Seja bem vindo(a) ao meu perfil.
 
   <div id="badges">
