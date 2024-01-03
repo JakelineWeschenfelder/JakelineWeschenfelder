@@ -1,1 +1,2 @@
-<img src = "giphy(1)". wilth "300px">
+<img src = "giphy.gif" width = "325px" align = "right">
+
