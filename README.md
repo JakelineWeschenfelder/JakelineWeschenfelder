@@ -30,6 +30,6 @@ Sou estudante de Design e produtos e Ciências Econômicas, e apaixonada por pro
 ---
 <div>
 <div align ="left"> 
-<img width = "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakelineWeschenfelder&show_icons=true&theme=bear&count_private=true"/> 
-<img whidth = "180px" src="https://github-readme-stats.vercel.app/api?username=JakelineWeschenfelder&show_icons=true&show_icons=true&theme=bear&count_private=true"/>
+<img width = "200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakelineWeschenfelder&show_icons=true&theme=bear&count_private=true"/> 
+<img whidth = "200px" src="https://github-readme-stats.vercel.app/api?username=JakelineWeschenfelder&show_icons=true&show_icons=true&theme=bear&count_private=true"/>
 </div>
