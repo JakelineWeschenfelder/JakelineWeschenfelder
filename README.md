@@ -26,9 +26,4 @@ Sou estudante de Design e produtos e Ciências Econômicas, e apaixonada por pro
 ---
 
 
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/JakelineWeschenfelder=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/JakelineWeschenfelder=true" />
-</div>
-
 
