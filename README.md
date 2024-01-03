@@ -1,15 +1,10 @@
-<img src = "giphy (1).gif" width = "325px" align = "right">
-<img src = "giphy.gif" width = "325px" align = "right">
 
-<img src = ".gif" width = "325px" align = "right">
 
 # ❤Oi eu sou a Jake!
 Seja bem vindo(a) ao meu perfil.
 
   <div id="badges">
   <a href ="https://github.com/JakelineWeschenfelder">
- < a href="https://www.linkedin.com/in/jakeline-weschenfelder-8b9729196/">
-   
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     <img src= "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
     <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
