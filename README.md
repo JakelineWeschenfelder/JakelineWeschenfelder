@@ -3,7 +3,7 @@
 
 <img src = ".gif" width = "325px" align = "right">
 
-# ❤ Olá, Que  bom ter você por aqui!
+# ❤ Oi eu sou a Jake!
   <div id="badges">
   <a href ="https://github.com/JakelineWeschenfelder">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
