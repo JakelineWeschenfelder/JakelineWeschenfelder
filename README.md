@@ -8,8 +8,7 @@ Seja bem vindo(a) ao meu perfil.
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     <img src= "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
     <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    <backgrod-image:"https://www.google.com/search?sca_esv=600310596&sxsrf=ACQVn0_SPmcz1vLL9KfpzkPcHE8N_GMrag:1705893493523&q=tela+de+fundo+para+pc&tbm=isch&chips=q:tela+de+fundo+para+pc,g_1:galaxia:TQQ5_6UfR8I%3D&usg=AI4_-kQBZdHZ3as8a724nYikTla-_j6GRg&sa=X&ved=2ahUKEwjI19K9hPCDAxWOLLkGHdjFB_8QgIoDKAd6BAgNEB4&biw=1366&bih=607&dpr=1#imgrc=CvsPMI-JKLmj-M">
-   
+  
   </a>
  
 ---
