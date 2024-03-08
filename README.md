@@ -54,4 +54,3 @@
 </div>
 
  [![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
-[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
