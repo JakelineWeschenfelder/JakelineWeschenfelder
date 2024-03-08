@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/badge/Behance-1769FF.svg?style=for-the-badge&logo=Behance&logoColor=white"/>
 </div>
 
 
@@ -38,6 +39,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
  <img src= "https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/500px-222222.svg?style=for-the-badge&logo=500px&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Acura-000000.svg?style=for-the-badge&logo=Acura&logoColor=white"/>
+ <img src="https://img.shields.io/badge/500px-222222.svg?style=for-the-badge&logo=500px&logoColor=white"/>
+ <img src="https://img.shields.io/badge/500px-222222.svg?style=for-the-badge&logo=500px&logoColor=white"/>
+ <img src="https://img.shields.io/badge/3M-FF0000.svg?style=for-the-badge&logo=3M&logoColor=white"/>
+  <img src="https://img.shields.io/badge//e/-000000.svg?style=for-the-badge&logo=/e/&logoColor=white"/>
+  <img src="https://img.shields.io/badge/99designs-FE5F50.svg?style=for-the-badge&logo=99designs&logoColor=white"/>
+ <img src="https://img.shields.io/badge/42-000000.svg?style=for-the-badge&logo=42&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
   
 </div>
  <h3 align="left">🔥   My Stats :</h3>
