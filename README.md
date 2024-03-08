@@ -14,11 +14,11 @@
 
 <p align="left">✨ Sou estudante de Design e produtos e Ciências Econômicas, e apaixonada por programação, e amante de filmes, quadrinhos, e jogos arcade.
 
-❤ Estudante de Design de produtos
-💙 Estudante de Ciencias Econômicas
-💙 Estudante de Engenharia de software
-👩‍💻 Aprendendo algo sobre Programação e prototipação.
-📚 Eu sou UX/UI Design e Design  Gráfico
+❤ Estudante de Design de produtos<br>
+💙 Estudante de Ciencias Econômicas<br>
+💙 Estudante de Engenharia de software<br>
+👩‍💻 Aprendendo algo sobre Programação e prototipação.<br>
+📚 Eu sou UX/UI Design e Design  Gráfico<br>
 
 
 ###
