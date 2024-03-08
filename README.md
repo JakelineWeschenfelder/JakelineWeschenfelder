@@ -53,4 +53,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jakelineWeschenfelder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
- [![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
