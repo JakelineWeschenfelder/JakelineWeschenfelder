@@ -20,7 +20,7 @@
 💙 Estudante de Engenharia de software<br>
 👩‍💻 Aprendendo algo sobre Programação e prototipação.<br>
 📚 Eu sou UX/UI Designer e Designer  Gráfico<br>
-❤ Enbaixadora DIO  Campus Experd<br>
+❤ Enbaixadora DIO Campus Expert | Turma 07 <br>
 
 
 
